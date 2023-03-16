@@ -1,6 +1,7 @@
 ### Hi there 👋
+<!--
 [![Yoomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoominlee)](https://github.com/yoominlee/github-readme-stats)
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoominlee&layout=compact)](https://github.com/yoominlee/github-readme-stats)
 
 
