@@ -1,5 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Yoomin's%20Github&fontSize=90)
+<p align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yoomin's%20Github&fontSize=70)
 
+</p>
 
 <h3 align="center"> <b> 📚 Languages 📚 </b> </h3>
 <p align="center">
