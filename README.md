@@ -19,6 +19,22 @@
 </p>
 
 
+
+<h3 align="center"> <b> 📚 Tools 📚 </b> </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" /></a>&nbsp
+  <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/>
+
+
+</p>
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+
 <h3 align="center"> <b> 👩‍💻 My Github Stats 👩‍💻 </b> </h3>
 <div align="center">
 
