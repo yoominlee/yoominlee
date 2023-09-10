@@ -1,7 +1,8 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yoomin's Github&fontSize=50" />
 
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+
+<h3 align="center"> <b> 📚 Languages 📚 </b> </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -11,7 +12,7 @@
 
 
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center"> <b> 👩‍💻 My Github Stats 👩‍💻 </b> </h3>
 <div align="center">
 
   
