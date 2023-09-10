@@ -1,6 +1,6 @@
 <p align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yoomin's%20Github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yoomin's%20Github&fontSize=70)
 
 </p>
 
@@ -42,3 +42,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<p align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=&fontSize=100)
+
+</p>
