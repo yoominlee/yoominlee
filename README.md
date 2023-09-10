@@ -1,10 +1,8 @@
 ### Hi there 👋
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
-<div align="center">
-  [![Yoomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoominlee)](https://github.com/yoominlee/github-readme-stats)
+[![Yoomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoominlee)](https://github.com/yoominlee/github-readme-stats)
 
-</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoominlee&layout=compact)](https://github.com/yoominlee/github-readme-stats)
 
