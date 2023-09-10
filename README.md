@@ -44,9 +44,10 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 <p align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=&fontSize=100)
 
 </p>
+-->
