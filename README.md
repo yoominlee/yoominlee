@@ -9,9 +9,9 @@
 -->
 
 ### Education 
-- Hanyang University (Interior Architecture Design & Computer Science: Double major)
+Hanyang University (Interior Architecture Design & Computer Science: Double major)
 
-### Mail 
+### Contact 
 : yoomin0104@gmail.com 
 
 ---
