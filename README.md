@@ -76,23 +76,21 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <!--   <img src="https://img.shields.io/badge/Java-007396?style=flatr&logo=Java&logoColor=white"/></a>&nbsp   -->
 
-  <br>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black"> 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black"> 
+
+  
 <!--   <img src="https://img.shields.io/badge/html5-E34F26?style=flatr&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=flatr&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flatr&logo=mysql&logoColor=white">  -->
 
-</p>
 
-
-
-<p>
 <!-- <h3 align="center"> <b> 📚 Tools 📚 </b> </h3>
 <p align="center"> -->
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>&nbsp
 <!--   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white"/></a>&nbsp -->
 <!--   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /></a>&nbsp
