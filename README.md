@@ -6,19 +6,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yoomin's%20Github&fontSize=70)
 
 </p>
--->
+
 
 ### ☘️ Education 
 Hanyang University (Interior Architecture Design & Computer Science: Double major)
 
 ### ☘️ Contact 
 
-
-[![Github](https://img.shields.io/badge/-yoominlee-000?style=flatr&logo=Github&logoColor=white)](https://github.com/yoominlee)
-[![Linkedin](https://img.shields.io/badge/-YoominLee-blue?style=flatr&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yoomin-lee-1844b228a/)
-[![Gmail](https://img.shields.io/badge/-yoomin000104@gmail.com-c14438?style=flatr&logo=Gmail&logoColor=white)](mailto:yoomin0104@gmail.com)
-
-
+-->
 
 </p>
 <!--
@@ -40,8 +35,8 @@ Hanyang University (Interior Architecture Design & Computer Science: Double majo
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently pursuing my Bachelor of Science in Interior Architecture Design and Computer Science.
+- 🌱 I’m currently learning computer vision and ML.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -50,6 +45,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### ☘️ About me
+- 🔭 I’m currently pursuing my Bachelor of Science in Interior Architecture Design and Computer Science at <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a> in Seoul, Korea
+- 🌱 I’m currently learning computer vision and ML.
+- 📫 How to reach me: 
+[![Github](https://img.shields.io/badge/-yoominlee-000?style=flatr&logo=Github&logoColor=white)](https://github.com/yoominlee)
+[![Linkedin](https://img.shields.io/badge/-YoominLee-blue?style=flatr&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yoomin-lee-1844b228a/)
+[![Gmail](https://img.shields.io/badge/-yoomin000104@gmail.com-c14438?style=flatr&logo=Gmail&logoColor=white)](mailto:yoomin0104@gmail.com)
+
+
+- Loves C++, Python, OpenCV && Architecture
 
 <!--
 <p align="center">
@@ -62,14 +67,17 @@ Here are some ideas to get you started:
 
 
 
-### ☘️ Stacks 
+### ☘️ My favorite stacks
+<!--#### 🐾 I know more about- -->
+
 <!-- <h3 align="center"> <b> 📚 Stacks 📚 </b> </h3> -->
 <p>
 <!-- <p align="center"> -->
 <!--   badge(style=for-the-badge to flatr) -->
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<!--   <img src="https://img.shields.io/badge/Java-007396?style=flatr&logo=Java&logoColor=white"/></a>&nbsp   -->
+  <!--   <img src="https://img.shields.io/badge/Java-007396?style=flatr&logo=Java&logoColor=white"/></a>&nbsp   -->
+
   <br>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black"> 
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"> 
@@ -82,7 +90,7 @@ Here are some ideas to get you started:
 </p>
 
 
-### ☘️ Tools 
+
 <p>
 <!-- <h3 align="center"> <b> 📚 Tools 📚 </b> </h3>
 <p align="center"> -->
@@ -93,9 +101,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/> -->
 <!-- 🥨🫠🐰🎈🍀☘️🐾 -->
+  <br>
+  <img src="https://img.shields.io/badge/Rhinoceros-000000?style=flat&logo=Rhinoceros&logoColor=white">
+  <img src="https://img.shields.io/badge/AutoCAD-CC0302.svg?logo=autodesk&logoColor=white">
+
+</p>
 
 
+<!--#### 🐾 Some of the technologies I have worked with-  -->
 
+  
 
 
 
