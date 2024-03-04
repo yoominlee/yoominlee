@@ -54,8 +54,6 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/-yoomin000104@gmail.com-c14438?style=flatr&logo=Gmail&logoColor=white)](mailto:yoomin0104@gmail.com)
 
 
-- Loves C++, Python, OpenCV && Architecture
-
 <!--
 <p align="center">
   
