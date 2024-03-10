@@ -1,37 +1,17 @@
-## Yoomin Lee
+### Hi I'm Yoomin Lee
 
 <!--
 <p>
-  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Yoomin's%20Github&fontSize=70)
-
 </p>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yoominlee&count_bg=%238B8B8B&title_bg=%23B7B7B7&icon=tinder.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### ☘️ Education 
 Hanyang University (Interior Architecture Design & Computer Science: Double major)
-
 ### ☘️ Contact 
-
 -->
 
 </p>
-<!--
-<h3> <b> 👩‍💻 My Github Stats 👩‍💻 </b> </h3>
 
-
-[![Yoomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoominlee)](https://github.com/yoominlee/github-readme-stats)
--->
-
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoominlee&layout=compact)](https://github.com/yoominlee/github-readme-stats)
--->
-
-
-
-<!--
+<!-- DEFAULT README
 **yoominlee/yoominlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -107,10 +87,17 @@ Here are some ideas to get you started:
 
 <!--#### 🐾 Some of the technologies I have worked with-  -->
 
-  
+
+### ☘️My Github Stats
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yoominlee&count_bg=%238B8B8B&title_bg=%23B7B7B7&icon=tinder.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
+<!--
+<h3> <b> 👩‍💻 My Github Stats 👩‍💻 </b> </h3>
+[![Yoomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoominlee)](https://github.com/yoominlee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoominlee&layout=compact)](https://github.com/yoominlee/github-readme-stats)
+-->
 
 
 
