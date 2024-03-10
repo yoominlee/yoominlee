@@ -7,6 +7,7 @@
 
 </p>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yoominlee&count_bg=%238B8B8B&title_bg=%23B7B7B7&icon=tinder.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### ☘️ Education 
 Hanyang University (Interior Architecture Design & Computer Science: Double major)
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 ### ☘️ About me
 - 🔭 I’m currently pursuing my Bachelor of Science in Interior Architecture Design and Computer Science at <a href="https://www.hanyang.ac.kr/web/eng">Hanyang University</a> in Seoul, Korea
 - 🌱 I’m currently learning computer vision and ML.
-- 📫 How to reach me: 
+- 📫 How to reach me:
 [![Github](https://img.shields.io/badge/-yoominlee-000?style=flatr&logo=Github&logoColor=white)](https://github.com/yoominlee)
 [![Linkedin](https://img.shields.io/badge/-YoominLee-blue?style=flatr&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yoomin-lee-1844b228a/)
 [![Gmail](https://img.shields.io/badge/-yoomin000104@gmail.com-c14438?style=flatr&logo=Gmail&logoColor=white)](mailto:yoomin0104@gmail.com)
@@ -98,8 +99,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white"/> -->
 <!-- 🥨🫠🐰🎈🍀☘️🐾 -->
   <br>
-  <img src="https://img.shields.io/badge/Rhinoceros-000000?style=flat&logo=Rhinoceros&logoColor=white">
-  <img src="https://img.shields.io/badge/AutoCAD-CC0302.svg?logo=autodesk&logoColor=white">
+  <img src="https://img.shields.io/badge/Rhinoceros-000000?style=flat-square&logo=Rhinoceros&logoColor=white">
+  <img src="https://img.shields.io/badge/AutoCAD-CC0302.svg?style=flat-square&logo=autodesk&logoColor=white">
 
 </p>
 
